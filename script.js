@@ -53,7 +53,7 @@ function init(){
     shows=[];
     x=0;  
     for (let  i= 1; i < 3; i++){  
-    n=1000;
+    n=500;
     ant=x;
     x=getRandomInt(n);
     while(x==ant)
