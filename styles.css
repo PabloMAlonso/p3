@@ -71,7 +71,6 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Responsive Design */
 @media (max-width: 800px) {
   .show1, .show2 {
     width: 100%;
